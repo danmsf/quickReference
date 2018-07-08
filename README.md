@@ -5,6 +5,8 @@ Quick reference to common commands
 
 * TensorFlow Commands:
 
+* Spark Commands:
+
 * Jupyter Notebook Commands:
 
 * R Commands:
