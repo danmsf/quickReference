@@ -1,7 +1,7 @@
 # quickReference
 Quick reference to common commands
 
-* [Shell and Bash Commands:] (/ShellSnip/ShellSnip.ipynb)
+* [Shell and Bash Commands](/ShellSnip/ShellSnip.ipynb)
 
 * TensorFlow Commands:
 
