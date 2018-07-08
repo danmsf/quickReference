@@ -7,7 +7,7 @@ Quick reference to common commands
 
 * [Spark Snippets](/SparkSnip/SparkSnip.ipynb)
 
-* [Colab Snippets](/ColabSnip/ColabSnip.ipynb)
+* [Colab Snippets](/ColabSnip/ColabSnippets.ipynb)
 
 * Jupyter Notebook Commands:
 
