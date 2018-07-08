@@ -3,9 +3,11 @@ Quick reference to common commands
 
 * [Shell and Bash Commands](/ShellSnip/ShellSnip.ipynb)
 
-* [TensorFlow Commands](/TfSnip/TfSnip.ipynb)
+* [TensorFlow Snippets](/TfSnip/TfSnip.ipynb)
 
-* [Spark Commands](/SparkSnip/SparkSnip.ipynb)
+* [Spark Snippets](/SparkSnip/SparkSnip.ipynb)
+
+* [Colab Snippets](/ColabSnip/ColabSnip.ipynb)
 
 * Jupyter Notebook Commands:
 
