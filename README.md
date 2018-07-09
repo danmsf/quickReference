@@ -1,11 +1,13 @@
 # quickReference
 Quick reference to common commands
 
-* Shell and Bash Commands:
+* [Shell and Bash Commands](/ShellSnip/ShellSnip.ipynb)
 
-* TensorFlow Commands:
+* [TensorFlow Snippets](/TfSnip/TfSnip.ipynb)
 
-* Spark Commands:
+* [Spark Snippets](/SparkSnip/SparkSnip.ipynb)
+
+* [Colab Snippets](/ColabSnip/ColabSnippets.ipynb)
 
 * Jupyter Notebook Commands:
 
