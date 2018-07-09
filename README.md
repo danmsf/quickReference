@@ -1,9 +1,9 @@
 # quickReference
 Quick reference to common commands
 
-* [Shell and Bash Commands](/ShellSnip/ShellSnip.ipynb)
+* [Shell and Bash Commands](/ShellSnip/ShellSnip.md)
 
-* [TensorFlow Snippets](/TfSnip/TfSnip.ipynb)
+* [TensorFlow Snippets](/TfSnip/TfSnip.md)
 
 * [Spark Snippets](/SparkSnip/SparkSnip.ipynb)
 
